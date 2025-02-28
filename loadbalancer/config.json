@@ -1,0 +1,28 @@
+{
+  "healthCheckInterval": "5s",
+  "servers": [
+    {
+      "Name": "Server1",
+      "URL": "http://192.168.181.1:8081",
+      "ActiveConnections": 0,
+      "Mutex": {},
+      "Healthy": true
+    },
+    {
+      "Name": "Server2",
+      "URL": "http://192.168.181.1:8082",
+      "ActiveConnections": 0,
+      "Mutex": {},
+      "Healthy": true
+    },
+    {
+      "Name": "Server3",
+      "URL": "http://192.168.181.1:8083",
+      "ActiveConnections": 0,
+      "Mutex": {},
+      "Healthy": true
+    }
+    
+  ],
+  "listenPort": ":9090"
+}
