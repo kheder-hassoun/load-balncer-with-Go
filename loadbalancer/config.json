@@ -1,9 +1,9 @@
 {
-  "healthCheckInterval": "6s",
+  "healthCheckInterval": "3s",
   "servers": [
     {
       "Name": "Server1",
-      "URL": "http:localhost:9090",
+      "URL": "http://localhost:9090",
       "ActiveConnections": 0,
       "Mutex": {},
       "Healthy": true

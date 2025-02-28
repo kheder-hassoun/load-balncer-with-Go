@@ -25,3 +25,71 @@
 2025/02/28 14:57:46 Request completed: GET / Server: localhost:9095 Server URL: http://localhost:9091
 2025/02/28 14:57:46 http: proxy error: context canceled
 2025/02/28 14:57:46 http: proxy error: context canceled
+2025/02/28 15:40:53 Starting server on port :9095
+2025/02/28 15:41:09 Received request: GET / Server: localhost:9095
+2025/02/28 15:41:24 Request completed: GET / Server: localhost:9095 Server URL: http://localhost:9091
+2025/02/28 15:41:24 Received request: GET /favicon.ico Server: localhost:9095
+2025/02/28 15:41:27 Received request: GET / Server: localhost:9095
+2025/02/28 15:41:39 Request completed: GET /favicon.ico Server: localhost:9095 Server URL: http://localhost:9091
+2025/02/28 15:42:57 Starting server on port :9095
+2025/02/28 15:43:04 Received request: GET / Server: localhost:9095
+2025/02/28 15:43:07 Request completed: GET / Server: localhost:9095 Server URL: http://localhost:9091
+2025/02/28 15:43:07 Received request: GET /favicon.ico Server: localhost:9095
+2025/02/28 15:43:10 Received request: GET / Server: localhost:9095
+2025/02/28 15:43:10 Request completed: GET /favicon.ico Server: localhost:9095 Server URL: http://localhost:9091
+2025/02/28 15:43:13 Request completed: GET / Server: localhost:9095 Server URL: http://localhost:9091
+2025/02/28 15:43:13 Received request: GET /favicon.ico Server: localhost:9095
+2025/02/28 15:43:14 Received request: GET / Server: localhost:9095
+2025/02/28 15:43:16 Request completed: GET /favicon.ico Server: localhost:9095 Server URL: http://localhost:9091
+2025/02/28 15:43:19 Request completed: GET / Server: localhost:9095 Server URL: http://localhost:9091
+2025/02/28 15:43:19 Received request: GET /favicon.ico Server: localhost:9095
+2025/02/28 15:43:20 Received request: GET / Server: localhost:9095
+2025/02/28 15:43:22 Request completed: GET /favicon.ico Server: localhost:9095 Server URL: http://localhost:9091
+2025/02/28 15:43:25 Request completed: GET / Server: localhost:9095 Server URL: http://localhost:9091
+2025/02/28 15:43:25 Received request: GET /favicon.ico Server: localhost:9095
+2025/02/28 15:43:28 Request completed: GET /favicon.ico Server: localhost:9095 Server URL: http://localhost:9091
+2025/02/28 15:43:30 Received request: GET / Server: localhost:9095
+2025/02/28 15:43:33 Request completed: GET / Server: localhost:9095 Server URL: http://localhost:9091
+2025/02/28 15:43:33 Received request: GET /favicon.ico Server: localhost:9095
+2025/02/28 15:43:36 Request completed: GET /favicon.ico Server: localhost:9095 Server URL: http://localhost:9091
+2025/02/28 15:44:24 Starting server on port :9095
+2025/02/28 15:44:33 Received request: GET / Server: localhost:9095
+2025/02/28 15:44:36 Request completed: GET / Server: localhost:9095 Server URL: http://localhost:9090
+2025/02/28 15:44:36 Received request: GET /favicon.ico Server: localhost:9095
+2025/02/28 15:44:38 Received request: GET / Server: localhost:9095
+2025/02/28 15:44:39 Request completed: GET /favicon.ico Server: localhost:9095 Server URL: http://localhost:9090
+2025/02/28 15:44:42 Request completed: GET / Server: localhost:9095 Server URL: http://localhost:9090
+2025/02/28 15:44:42 Received request: GET /favicon.ico Server: localhost:9095
+2025/02/28 15:44:43 Received request: GET / Server: localhost:9095
+2025/02/28 15:44:45 Request completed: GET /favicon.ico Server: localhost:9095 Server URL: http://localhost:9090
+2025/02/28 15:44:48 Request completed: GET / Server: localhost:9095 Server URL: http://localhost:9090
+2025/02/28 15:44:48 Received request: GET /favicon.ico Server: localhost:9095
+2025/02/28 15:44:51 Request completed: GET /favicon.ico Server: localhost:9095 Server URL: http://localhost:9090
+2025/02/28 15:45:01 Received request: GET / Server: localhost:9095
+2025/02/28 15:45:04 Request completed: GET / Server: localhost:9095 Server URL: http://localhost:9091
+2025/02/28 15:45:04 Received request: GET /favicon.ico Server: localhost:9095
+2025/02/28 15:45:07 Request completed: GET /favicon.ico Server: localhost:9095 Server URL: http://localhost:9091
+2025/02/28 15:45:15 Received request: GET / Server: localhost:9095
+2025/02/28 15:45:18 Request completed: GET / Server: localhost:9095 Server URL: http://localhost:9090
+2025/02/28 15:45:18 Received request: GET /favicon.ico Server: localhost:9095
+2025/02/28 15:45:21 Request completed: GET /favicon.ico Server: localhost:9095 Server URL: http://localhost:9090
+2025/02/28 15:54:37 Starting server on port :9095
+2025/02/28 15:54:52 Received request: GET / Server: localhost:9095
+2025/02/28 15:54:52 http: proxy error: dial tcp [::1]:9090: connectex: No connection could be made because the target machine actively refused it.
+2025/02/28 15:54:55 Request completed: GET / Server: localhost:9095 Server URL: http://localhost:9090
+2025/02/28 15:55:07 Received request: GET / Server: localhost:9095
+2025/02/28 15:55:10 Request completed: GET / Server: localhost:9095 Server URL: http://localhost:9090
+2025/02/28 15:55:10 Received request: GET /favicon.ico Server: localhost:9095
+2025/02/28 15:55:13 Request completed: GET /favicon.ico Server: localhost:9095 Server URL: http://localhost:9090
+2025/02/28 15:55:16 Received request: GET / Server: localhost:9095
+2025/02/28 15:55:19 Request completed: GET / Server: localhost:9095 Server URL: http://localhost:9090
+2025/02/28 15:55:19 Received request: GET /favicon.ico Server: localhost:9095
+2025/02/28 15:55:22 Request completed: GET /favicon.ico Server: localhost:9095 Server URL: http://localhost:9090
+2025/02/28 15:55:26 Received request: GET / Server: localhost:9095
+2025/02/28 15:55:30 Request completed: GET / Server: localhost:9095 Server URL: http://localhost:9091
+2025/02/28 15:55:30 Received request: GET /favicon.ico Server: localhost:9095
+2025/02/28 15:55:33 Request completed: GET /favicon.ico Server: localhost:9095 Server URL: http://localhost:9091
+2025/02/28 15:55:38 Received request: GET / Server: localhost:9095
+2025/02/28 15:55:41 Request completed: GET / Server: localhost:9095 Server URL: http://localhost:9090
+2025/02/28 15:55:41 Received request: GET /favicon.ico Server: localhost:9095
+2025/02/28 15:55:44 Request completed: GET /favicon.ico Server: localhost:9095 Server URL: http://localhost:9090
