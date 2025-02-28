@@ -1,0 +1,27 @@
+2025/02/28 14:55:27 Starting server on port :9090
+2025/02/28 14:55:27 Error starting server: listen tcp :9090: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+2025/02/28 14:56:03 Starting server on port :9095
+2025/02/28 14:56:46 Received request: GET / Server: localhost:9095
+2025/02/28 14:57:01 Request completed: GET / Server: localhost:9095 Server URL: http://localhost:9091
+2025/02/28 14:57:01 Received request: GET /favicon.ico Server: localhost:9095
+2025/02/28 14:57:01 Received request: GET / Server: localhost:9095
+2025/02/28 14:57:05 Received request: GET / Server: localhost:9095
+2025/02/28 14:57:07 Received request: GET / Server: localhost:9095
+2025/02/28 14:57:09 Received request: GET / Server: localhost:9095
+2025/02/28 14:57:16 Request completed: GET /favicon.ico Server: localhost:9095 Server URL: http://localhost:9091
+2025/02/28 14:57:16 http: proxy error: context canceled
+2025/02/28 14:57:16 http: proxy error: context canceled
+2025/02/28 14:57:22 Received request: GET / Server: localhost:9095
+2025/02/28 14:57:26 Received request: GET / Server: localhost:9095
+2025/02/28 14:57:31 Request completed: GET / Server: localhost:9095 Server URL: http://localhost:9092
+2025/02/28 14:57:31 Received request: GET / Server: localhost:9095
+2025/02/28 14:57:31 http: proxy error: context canceled
+2025/02/28 14:57:31 Request completed: GET / Server: localhost:9095 Server URL: http://localhost:9091
+2025/02/28 14:57:36 Received request: GET / Server: localhost:9095
+2025/02/28 14:57:36 Received request: GET / Server: localhost:9095
+2025/02/28 14:57:36 Received request: GET / Server: localhost:9095
+2025/02/28 14:57:36 Received request: GET / Server: localhost:9095
+2025/02/28 14:57:38 Received request: GET / Server: localhost:9095
+2025/02/28 14:57:46 Request completed: GET / Server: localhost:9095 Server URL: http://localhost:9091
+2025/02/28 14:57:46 http: proxy error: context canceled
+2025/02/28 14:57:46 http: proxy error: context canceled

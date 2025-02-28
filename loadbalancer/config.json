@@ -1,28 +1,28 @@
 {
-  "healthCheckInterval": "5s",
+  "healthCheckInterval": "6s",
   "servers": [
     {
       "Name": "Server1",
-      "URL": "http://192.168.181.1:8081",
+      "URL": "http:localhost:9090",
       "ActiveConnections": 0,
       "Mutex": {},
       "Healthy": true
     },
     {
       "Name": "Server2",
-      "URL": "http://192.168.181.1:8082",
+      "URL": "http://localhost:9091",
       "ActiveConnections": 0,
       "Mutex": {},
       "Healthy": true
     },
     {
       "Name": "Server3",
-      "URL": "http://192.168.181.1:8083",
+      "URL": "http://localhost:9092",
       "ActiveConnections": 0,
       "Mutex": {},
       "Healthy": true
     }
     
   ],
-  "listenPort": ":9090"
+  "listenPort": ":9095"
 }
