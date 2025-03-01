@@ -96,7 +96,7 @@ func main() {
 	loadBalancerURL := "http://localhost:9095"
 
 	// Number of requests to send
-	numRequests := 10
+	numRequests := 15
 
 	// Create a wait group to wait for all requests to complete
 	var wg sync.WaitGroup
