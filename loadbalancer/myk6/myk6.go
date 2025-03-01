@@ -49,7 +49,7 @@ func sendRequest(url string, stats *ServerStats, wg *sync.WaitGroup) {
 		log.Printf("Error sending request: %v\n", err)
 		return
 	}
-
+	//
 	defer resp.Body.Close()
 
 	body, err := io.ReadAll(resp.Body)
