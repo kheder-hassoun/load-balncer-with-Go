@@ -1,5 +1,5 @@
 {
-  "healthCheckInterval": "3s",
+  "healthCheckInterval": "5s",
   "servers": [
     {
       "Name": "Server1",
